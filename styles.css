@@ -1,3 +1,29 @@
+body{
+    max-width: 90%;
+    text-align: center;
+}
+.felso{
+    float: left;
+    display: flex;
+}
+
+.fokep{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
 .jobb{
     transform: rotate(0.5turn);
+
+}
+.bal{
+    margin-right: 0px;
+}
+.iranyito{
+    height: 100%;
+}
+.kep{
+    width: auto;
+    height: 50px;
 }
